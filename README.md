@@ -1,6 +1,5 @@
- 
-                                                                      Wowchat 
-                                                                   documentation 
+wowchat
+(documentation)
 
 
 
