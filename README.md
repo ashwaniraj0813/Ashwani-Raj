@@ -61,7 +61,7 @@ User Guide
 • Chat interface
 1.	Select the contact in direct message to open the chat interface
 2.	Messages are displayed in real time
-3.		You can create a group by clicking on + icon of channel 
+3. You can create a group by clicking on + icon of channel 
 
 
 •	Multimedia Sharing
